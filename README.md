@@ -2,6 +2,7 @@ JXUI
 ====
 
 JX UI 组件库
+http://alloyteam.github.com/JXUI/
 
 你好，欢迎来到JX UI组件的世界~
 By AlloyTeam.com
